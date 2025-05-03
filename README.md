@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jorekai-db-timetable-mcp-badge.png)](https://mseep.ai/app/jorekai-db-timetable-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@jorekai/db-timetable-mcp)](https://smithery.ai/server/@jorekai/db-timetable-mcp)
 # DB Timetable MCP Server
 
